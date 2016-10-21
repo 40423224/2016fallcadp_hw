@@ -136,6 +136,12 @@
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
+<v t="leo.20161021093915.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161021093915.3"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20161021093915.4"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20161021093915.5"><vh>new:封面投影片內容</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215121740.1"></t>
@@ -830,7 +836,8 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161014112148.24">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161014112148.25">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -977,7 +984,8 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161014112148.37">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161014112148.38">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1026,7 +1034,8 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161014112148.40">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161014112148.41">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1136,6 +1145,54 @@ Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20161014112148.9">&lt;section&gt;
 @others
 &lt;/section&gt;
+</t>
+<t tx="leo.20161021093915.2"></t>
+<t tx="leo.20161021093915.3">(uncached) leo.20161014112148.8
+Diff...
+  ## 2016Fall 電腦輔助設計實習課程
+  
+- ### 40423206
+?           ^^
++ ### 40423224
+?           ^^
+  
+  &lt;small&gt;
+  Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
+  &lt;/small&gt;
+  
+  [甲班電腦輔助設計實習課程網誌](blog/index.html)
+  
+  [乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+  
+  [Vimeo 上課影片](https://vimeo.com/user24079973/videos)
+</t>
+<t tx="leo.20161021093915.4">## 2016Fall 電腦輔助設計實習課程
+
+### 40423224
+
+&lt;small&gt;
+Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[甲班電腦輔助設計實習課程網誌](blog/index.html)
+
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+
+[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
+</t>
+<t tx="leo.20161021093915.5">## 2016Fall 電腦輔助設計實習課程
+
+### 40423206
+
+&lt;small&gt;
+Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[甲班電腦輔助設計實習課程網誌](blog/index.html)
+
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+
+[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
 </t>
 </tnodes>
 </leo_file>
